@@ -1,2 +1,2 @@
-# Micropocessor-
+# Micropocessor
 Embedded Data Logger
